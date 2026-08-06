@@ -1,5 +1,0 @@
-streamlit
-rdflib
-rapidfuzz
-pandas
-requests
